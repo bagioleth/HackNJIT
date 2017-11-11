@@ -1,0 +1,2 @@
+# HackNJIT
+first attempt
